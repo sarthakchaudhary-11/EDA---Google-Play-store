@@ -1,4 +1,5 @@
 Exploratory Data Analysis (EDA)
+
 This repository contains comprehensive resources, code, and documentation for performing Exploratory Data Analysis (EDA). EDA is a crucial step in the data analysis pipeline, involving techniques to summarize, visualize, and uncover patterns, trends, and anomalies in data.
 
 Features:
